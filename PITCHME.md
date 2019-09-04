@@ -30,7 +30,7 @@ Bパッケージが先に入っていることが条件な場合 @fa[frown]
 
 @snapend
 
----
++++
 
 @snap[west]
 
