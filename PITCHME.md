@@ -111,6 +111,8 @@ npmも自動的にインストールされ使えるようになる
 
 @snap[west]
 
+background:white
+
 npmを使う
 
 @color[white](a)
