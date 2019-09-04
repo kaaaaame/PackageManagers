@@ -22,7 +22,7 @@ Aパッケージをインストールするのに、
 
 Bパッケージが先に入っていることが条件な場合 @fa[frown]
 
-@color[white]a
+@color[white](a)
 
 @fa[arrow-right] 自動的にインストールをしてくれる @fa[laugh-beam]
 
@@ -36,7 +36,7 @@ CパッケージとDパッケージは
 
 同時にインストールしてはいけない場合 @fa[frown]
 
-@color[white]a
+@color[white](a)
 
 @fa[arrow-right] 警告を出してダメということを教えてくれる @fa[laugh-beam]
 
