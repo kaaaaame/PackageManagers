@@ -4,7 +4,7 @@
 
 @snap[west]
 
-@font-family[ワープロ明朝](パッケージ管理ツールとは…)
+@family[ワープロ明朝](パッケージ管理ツールとは…)
 
 @color[white](a)
 
