@@ -1,5 +1,3 @@
-theme : sky
-
 ## PackageManagers
 
 ---
@@ -127,8 +125,10 @@ npmもちゃんとインストールされてるかを確認する
 
 確認コマンド @fa[arrow-right] 
 
-```cmd
+```
+
 npm -v
+
 ```
 
 @snapend
