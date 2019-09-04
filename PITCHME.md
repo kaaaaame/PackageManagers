@@ -111,7 +111,7 @@ npmも自動的にインストールされ使えるようになる
 
 @snap[west]
 
-background:white
+@background[white](
 
 npmを使う
 
@@ -125,7 +125,7 @@ npmもちゃんとインストールされてるかを確認する
 
 @color[white](a)
 
-確認コマンド @fa[arrow-right] 
+確認コマンド @fa[arrow-right] )
 
 ```
 
