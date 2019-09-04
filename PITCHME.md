@@ -22,7 +22,7 @@
 
 Aパッケージをインストールするのに、
 
-Bパッケージが先に入っていることが条件な場合 @color[blue]@fa[frown]
+Bパッケージが先に入っていることが条件な場合 @color[blue](@fa[frown])
 
 @color[white](a)
 
