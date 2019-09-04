@@ -123,7 +123,7 @@ npmもちゃんとインストールされてるかを確認する
 
 @color[white](a)
 
-確認コマンド @fa[arrow-right] npm -v
+確認コマンド @fa[arrow-right] ```js npm -v
 
 @snapend
 
