@@ -1,6 +1,3 @@
-#Theme Setting
-Theme : SKY
-
 ## PackageManagers
 
 ---
