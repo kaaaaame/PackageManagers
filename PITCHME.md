@@ -87,7 +87,7 @@ CパッケージとDパッケージは
 
 @color[white](a)
 
-@color[green](Node Package Manager)の略。
+@color[orange](Node Package Manager)の略。
 
 Node.jsのパッケージを管理するツールのこと。
 
