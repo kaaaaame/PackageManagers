@@ -83,11 +83,11 @@ CパッケージとDパッケージは
 
 @snap[west]
 
-npmとは…
+@size[1.5em](npm)とは…
 
 @color[white](a)
 
-Node Package Managerの略。
+@color[green](Node Package Manager)の略。
 
 Node.jsのパッケージを管理するツールのこと。
 
