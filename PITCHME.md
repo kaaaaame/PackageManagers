@@ -95,9 +95,13 @@ Node.jsのパッケージを管理するツールのこと。
 
 ---
 
-@snap[west]
+@snap[north]
 
 npmを使う
+
+@snapend
+
+@snap[west]
 
 @color[white](a)
 
@@ -109,9 +113,13 @@ npmも自動的にインストールされ使えるようになる
 
 ---
 
-@snap[west]
+@snap[north]
 
 npmを使う
+
+@snapend
+
+@snap[west]
 
 @color[white](a)
 
