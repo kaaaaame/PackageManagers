@@ -81,9 +81,50 @@ CパッケージとDパッケージは
 
 ---
 
+@snap[west]
+
 npmとは…
+
+@color[white](a)
+
 Node Package Managerの略。
+
 Node.jsのパッケージを管理するツールのこと。
+
+@snapend
+
+---
+
+
+---
+
+@snap[west]
+
+npmを使う
+
+@color[white](a)
+
+Node.jsをインストールすれば、
+
+npmも自動的にインストールされ、使えるようになる
+
+@snapend
+
+---
+
+@snap[west]
+
+npmを使う
+
+@color[white](a)
+
+Node.jsのインストールが完了したら、
+
+npmもちゃんとインストールされているか確認する
+
+確認コマンド @fa[arrow-right] npm -v
+
+@snapend
 
 ---
 
