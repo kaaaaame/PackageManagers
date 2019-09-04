@@ -26,7 +26,7 @@ Bパッケージが先に入っていることが条件な場合 @color[blue](@f
 
 @color[white](a)
 
-@fa[arrow-right] 自動的にインストールをしてくれる @color[orange]@fa[laugh-beam]
+@fa[arrow-right] 自動的にインストールをしてくれる @color[orange](@fa[laugh-beam])
 
 @snapend
 
@@ -36,11 +36,11 @@ Bパッケージが先に入っていることが条件な場合 @color[blue](@f
 
 CパッケージとDパッケージは
 
-同時にインストールしてはいけない場合 @color[blue]@fa[frown]
+同時にインストールしてはいけない場合 @color[blue](@fa[frown])
 
 @color[white](a)
 
-@fa[arrow-right] 警告を出してダメということを教えてくれる @color[orange]@fa[laugh-beam]
+@fa[arrow-right] 警告を出してダメということを教えてくれる @color[orange](@fa[laugh-beam])
 
 @snapend
 
