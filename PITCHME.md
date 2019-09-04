@@ -22,7 +22,8 @@ Aパッケージをインストールするのに、
 
 Bパッケージが先に入っていることが条件な場合 @fa[frown]
 
-@fa[arrow-right] 自動的にインストールをしてくれる
+
+@fa[arrow-right] 自動的にインストールをしてくれる @fa[laugh-beam]
 
 @snapend
 
@@ -34,7 +35,8 @@ CパッケージとDパッケージは
 
 同時にインストールしてはいけない場合 @fa[frown]
 
-@fa[arrow-right] 警告を出してダメということを教えてくれる
+
+@fa[arrow-right] 警告を出してダメということを教えてくれる @fa[laugh-beam]
 
 @snapend
 
