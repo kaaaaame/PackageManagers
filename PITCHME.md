@@ -97,6 +97,14 @@ Node.jsのパッケージを管理するツールのこと。
 
 @snap[west]
 
+
+
+@snapend
+
+---
+
+@snap[west]
+
 npmを使う
 
 @color[white](a)
