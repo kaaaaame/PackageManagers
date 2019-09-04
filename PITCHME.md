@@ -119,6 +119,8 @@ Node.jsのインストールが完了したら、
 
 npmもちゃんとインストールされてるかを確認する
 
+バージョンが表示されたらOK
+
 @color[white](a)
 
 確認コマンド @fa[arrow-right] npm -v
