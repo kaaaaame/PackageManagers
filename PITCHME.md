@@ -22,11 +22,11 @@
 
 Aパッケージをインストールするのに、
 
-Bパッケージが先に入っていることが条件な場合 @fa[frown]
+Bパッケージが先に入っていることが条件な場合 @color[blue]@fa[frown]
 
 @color[white](a)
 
-@fa[arrow-right] 自動的にインストールをしてくれる @fa[laugh-beam]
+@fa[arrow-right] 自動的にインストールをしてくれる @color[orange]@fa[laugh-beam]
 
 @snapend
 
@@ -36,11 +36,11 @@ Bパッケージが先に入っていることが条件な場合 @fa[frown]
 
 CパッケージとDパッケージは
 
-同時にインストールしてはいけない場合 @fa[frown]
+同時にインストールしてはいけない場合 @color[blue]@fa[frown]
 
 @color[white](a)
 
-@fa[arrow-right] 警告を出してダメということを教えてくれる @fa[laugh-beam]
+@fa[arrow-right] 警告を出してダメということを教えてくれる @color[orange]@fa[laugh-beam]
 
 @snapend
 
