@@ -133,11 +133,7 @@ npmもちゃんとインストールされてるかを確認する
 
 確認コマンド @fa[arrow-right] 
 
-`
-
-npm -v
-
-`
+`npm -v`
 
 @snapend
 
