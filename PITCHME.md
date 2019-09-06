@@ -131,7 +131,7 @@ npmもちゃんとインストールされてるかを確認する
 
 @color[white](a)
 
-確認コマンド @fa[arrow-right] 
+確認コマンド 
 
 `npm -v`
 
