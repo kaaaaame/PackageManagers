@@ -97,7 +97,7 @@ Node.jsのパッケージを管理するツールのこと。
 
 @snap[west]
 
-
+ あ
 
 @snapend
 
@@ -133,11 +133,11 @@ npmもちゃんとインストールされてるかを確認する
 
 確認コマンド @fa[arrow-right] 
 
-```
+`
 
 npm -v
 
-```
+`
 
 @snapend
 
