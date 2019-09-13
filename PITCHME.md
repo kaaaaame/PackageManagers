@@ -117,7 +117,9 @@ npmも自動的にインストールされ使えるようになる
 
 @color[white](a)
 
-@size[1.5em](express)
+@fa[splotch]@size[1.5em](express)
+
+@color[white](a)
 
 Node.jsのWebアプリケーション開発で利用できる
 
