@@ -135,11 +135,31 @@ Webフレームワーク。高速でかつ軽量、とても人気
 
 @color[white](a)
 
-@color[orange](@fa[splotch]) @size[1.5em](request)
+@color[orange](@fa[splotch]) @size[1.5em](lodash)
 
 @color[white](a)
 
-httpコールをシンプルに作成するためのライブラリ。
+便利な関数をまとめて提供しているライブラリ。
+
+配列や数値、オブジェクト、文字列の扱いを簡単にする。
+
+@snapend
+
+---
+
+@snap[west]
+
+どんなパッケージがあるのか
+
+@color[white](a)
+
+@color[orange](@fa[splotch]) @size[1.5em](chalk)
+
+@color[white](a)
+
+ターミナルに表示する文字列をスタイリングしてくれる。
+
+文字や背景の色を変更したり、下線を引いたりできる。
 
 @snapend
 
