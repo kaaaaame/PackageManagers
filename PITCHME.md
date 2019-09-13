@@ -4,7 +4,7 @@
 
 @snap[west]
 
-**パッケージ管理ツール**とは…
+パッケージ管理ツールとは…
 
 @color[white](a)
 
@@ -30,7 +30,7 @@ Bパッケージが先に入っていることが条件な場合 @color[blue](@f
 
 @snapend
 
-+++
+---
 
 @snap[west]
 
@@ -41,6 +41,24 @@ CパッケージとDパッケージは
 @color[white](a)
 
 @fa[arrow-right] 警告を出してダメということを教えてくれる @color[orange](@fa[laugh-beam])
+
+@snapend
+
++++
+
+@snap[west]
+
+パッケージとは…
+
+@color[white](a)
+
+ソフトウェアを構成するためのファイルが一式に
+
+まとまったもの。設定ファイルやドキュメント、
+
+プログラム本体、そのプログラムが正しく動くために
+
+必要なライブラリなどが含まれている。
 
 @snapend
 
@@ -57,24 +75,6 @@ CパッケージとDパッケージは
 Node.js @fa[handshake] npm, yarn　  @color[white](ll) Ruby @fa[handshake] Gem
 PHP @fa[handshake] Composer 　　　Python @fa[handshake] pip
 Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
-
-@snapend
-
----
-
-@snap[west]
-
-@size[1.5em](パッケージ)とは…
-
-@color[white](a)
-
-ソフトウェアを構成するためのファイルが一式に
-
-まとまったもの。設定ファイルやドキュメント、
-
-プログラム本体、そのプログラムが正しく動くために
-
-必要なライブラリなどが含まれている。
 
 @snapend
 
