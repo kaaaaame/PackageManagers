@@ -48,6 +48,24 @@ CパッケージとDパッケージは
 
 @snap[west]
 
+パッケージ管理ツールにはたくさんの種類があり、
+
+プログラム言語や開発環境によって異なる。
+
+@color[white](a)
+
+- PHP → Composer
+- Ruby → Gem
+- Python → pip
+- Linux → yum, rpm
+- MacOS → Homebrew
+
+@snapend
+
+---
+
+@snap[west]
+
 パッケージとは…
 
 @color[white](a)
@@ -103,7 +121,7 @@ Node.jsのパッケージを管理するツールのこと。
 
 @snap[west]
 
-npmを使う
+npmを使うためには…
 
 @color[white](a)
 
