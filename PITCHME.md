@@ -135,7 +135,11 @@ Webフレームワーク。高速でかつ軽量、とても人気
 
 @color[white](a)
 
+@color[orange](@fa[splotch]) @size[1.5em](request)
 
+@color[white](a)
+
+httpコールをシンプルに作成するためのライブラリ。
 
 
 
