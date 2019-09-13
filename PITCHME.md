@@ -4,7 +4,7 @@
 
 @snap[west]
 
-パッケージ管理ツールとは…
+@size[1.5em](パッケージ管理ツール)とは…
 
 @color[white](a)
 
@@ -64,7 +64,7 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 
 @snap[west]
 
-パッケージとは…
+@size[1.5em](パッケージ)とは…
 
 @color[white](a)
 
@@ -78,7 +78,7 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 
 @snapend
 
-+++
+---
 
 @snap[west]
 
@@ -104,7 +104,7 @@ Node.jsのパッケージを管理するツールのこと。
 
 @snap[west]
 
- あ
+ OK
 
 @snapend
 
