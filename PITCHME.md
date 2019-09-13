@@ -117,7 +117,7 @@ npmも自動的にインストールされ使えるようになる
 
 @color[white](a)
 
-@fa[splotch]@size[1.5em](express)
+@color[orange](@fa[splotch]) @size[1.5em](express)
 
 @color[white](a)
 
