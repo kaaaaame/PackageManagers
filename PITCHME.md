@@ -89,9 +89,9 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 
 @color[orange](Node Package Manager)の略。
 
-JavaScript（Node.js）のパッケージを
+JavaScript（Node.js）のパッケージを効率よく
 
-効率よく管理するツールのこと。
+管理する便利なツールのこと。
 
 @snapend
 
