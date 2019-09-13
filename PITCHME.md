@@ -115,17 +115,28 @@ npmも自動的にインストールされ使えるようになる
 
 どんなパッケージがあるのか
 
+@color[white](a)
+
+express
+
+Node.jsのWebアプリケーション開発で利用できる
+
+Webフレームワーク。高速でかつ軽量。とても人気。
+
 @snapend
 
 ---
 
 @snap[west]
 
-express
+どんなパッケージがあるのか
 
 @color[white](a)
 
-Node.jsのWebアプリケーション開発で利用できるMVCフレームワーク
+
+
+
+
 
 
 
