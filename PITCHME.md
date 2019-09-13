@@ -117,11 +117,11 @@ npmも自動的にインストールされ使えるようになる
 
 @color[white](a)
 
-express
+@size[1.5em](express
 
 Node.jsのWebアプリケーション開発で利用できる
 
-Webフレームワーク。高速でかつ軽量。とても人気。
+Webフレームワーク。高速でかつ軽量、とても人気
 
 @snapend
 
