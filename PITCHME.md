@@ -54,11 +54,11 @@ CパッケージとDパッケージは
 
 @color[white](a)
 
-- PHP → Composer
-- Ruby → Gem
-- Python → pip
-- Linux → yum, rpm
-- MacOS → Homebrew
+- PHP@fa[arrow-right] Composer
+- Ruby@fa[arrow-right] Gem
+- Python@fa[arrow-right] pip
+- Linux@fa[arrow-right] yum, rpm
+- MacOS@fa[arrow-right] Homebrew
 
 @snapend
 
