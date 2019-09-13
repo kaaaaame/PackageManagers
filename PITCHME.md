@@ -74,7 +74,7 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 
 プログラム本体、そのプログラムが正しく動くために
 
-必要なライブラリどが含まれている。
+必要なライブラリなどが含まれている。
 
 @snapend
 
