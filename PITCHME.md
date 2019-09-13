@@ -72,7 +72,7 @@ CパッケージとDパッケージは
 
 @color[white](a)
 
-@size[1.5em](Node.js) @fa[handshake] @size[1.5em](npm, yarn)　  @color[white](ll) @size[1.5em](Ruby) @fa[handshake] @size[1.5em](Gem)
+@size[1.2em](Node.js) @fa[handshake] @size[1.5em](npm, yarn)　  @color[white](ll) @size[1.5em](Ruby) @fa[handshake] @size[1.5em](Gem)
 @size[1.5em](PHP) @fa[handshake] @size[1.5em](Composer) 　　　@size[1.5em](Python) @fa[handshake] @size[1.5em](pip)
 @size[1.5em](Linux) @fa[handshake] @size[1.5em](yum, rpm)　　　 @size[1.5em](MacOS) @fa[handshake] @size[1.5em](Homebrew)
 
