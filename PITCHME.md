@@ -55,8 +55,8 @@ CパッケージとDパッケージは
 @color[white](a)
 
 Node.js @fa[handshake] npm, yarn　  @color[white](a) Ruby @fa[handshake] Gem
-PHP @fa[handshake] Composer　　　Python @fa[handshake] pip
-Linux @fa[handshake] yum, rpm　　　MacOS @fa[handshake] Homebrew
+PHP @fa[handshake] Composer　　　 Python @fa[handshake] pip
+Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 
 @snapend
 
