@@ -54,8 +54,8 @@ CパッケージとDパッケージは
 
 @color[white](a)
 
-PHP ⊂(＾ω＾)⊃ Composer
-- Ruby @fa[arrow-right] Gem
+PHP @fa[praying-hands] Composer
+- Ruby @fa[praying-hands] Gem
 - Python @fa[arrow-right] pip
 - Linux @fa[arrow-right] yum, rpm
 - MacOS @fa[arrow-right] Homebrew
