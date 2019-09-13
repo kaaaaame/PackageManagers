@@ -52,13 +52,13 @@ CパッケージとDパッケージは
 
 プログラム言語や開発環境によって異なる。
 
-@snapend
-
 @color[white](a)
 
-Node.js @fa[handshake] npm, yarn　　PHP @fa[handshake] Composer
-Ruby @fa[handshake] Gem　　Python @fa[handshake] pip　　Perl @fa[handshake] CPAN
+Node.js @fa[handshake] npm, yarn　　Ruby @fa[handshake] Gem
+PHP @fa[handshake] Composer　　Python @fa[handshake] pip
 Linux @fa[handshake] yum, rpm　　MacOS @fa[handshake] Homebrew
+
+@snapend
 
 ---
 
