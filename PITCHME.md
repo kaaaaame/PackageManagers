@@ -54,11 +54,8 @@ CパッケージとDパッケージは
 
 @color[white](a)
 
-|プログラム言語|パッケージ管理ツール|
-|:-----------:|:----------------:|
-|PHP|Composer|
-|Ruby|Gem|
-
+- PHP @fa[arrow-right] Composer
+- Ruby @fa[arrow-right] Gem
 - Python @fa[arrow-right] pip
 - Linux @fa[arrow-right] yum, rpm
 - MacOS @fa[arrow-right] Homebrew
