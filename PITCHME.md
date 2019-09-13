@@ -72,7 +72,7 @@ CパッケージとDパッケージは
 
 @color[white](a)
 
-Node.js @fa[handshake] (npm, yarn　  @color[white](ll) Ruby @fa[handshake] Gem
+Node.js @fa[handshake] npm, yarn　  @color[white](ll) Ruby @fa[handshake] Gem
 PHP @fa[handshake] Composer 　　　Python @fa[handshake] pip
 Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 
@@ -80,13 +80,6 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 
 ---
 
-@snap[west]
-
-あ
-
-@snapend
-
----
 
 @snap[west]
 
@@ -96,15 +89,9 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 
 @color[orange](Node Package Manager)の略。
 
-Node.jsのパッケージを管理するツールのこと。
+JavaScript（Node.js）のパッケージを
 
-@snapend
-
----
-
-@snap[west]
-
- OK
+効率よく管理するツールのこと。
 
 @snapend
 
@@ -126,13 +113,7 @@ npmも自動的にインストールされ使えるようになる
 
 @snap[west]
 
-npmを使う
-
-@color[white](a)
-
-Node.jsのインストールが完了したら、
-
-npmもちゃんとインストールされてるかを確認する
+どんなパッケージがあるのか
 
 @snapend
 
