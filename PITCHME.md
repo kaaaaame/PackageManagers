@@ -115,10 +115,19 @@ npmも自動的にインストールされ使えるようになる
 
 どんなパッケージがあるのか
 
+@snapend
+
+---
+
+@snap[west]
+
+express
+
 @color[white](a)
 
-- express
-  - 高速かつ軽量でオープンなNode.jsのためのWebフレームワーク
+Node.jsのWebアプリケーション開発で利用できるMVCフレームワーク
+
+
 
 
 @snapend
