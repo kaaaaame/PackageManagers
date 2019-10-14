@@ -86,11 +86,8 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 
 @color[white](a)
 
-パッケージのインストールなどの処理が
-@color[red](高速)に、かつ、@color[red](正確)に行うことができる。
-パッケージ管理ツールなしでフレームワークなどを
-インストールすることはほとんどない、
-というぐらい普及している便利ツールである。
+パッケージのインストールなどの処理が、
+手動で処理するよりも@color[red](高速)に、かつ、@color[red](正確)に行うことができる。
 
 @snapend
 
