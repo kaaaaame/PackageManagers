@@ -96,7 +96,7 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 
 @snap[west]
 
-@color[orange](@fa[splotch])パッケージマネージャーの誕生経緯
+@color[orange](@fa[splotch])パッケージ管理ツールの誕生経緯
 
 @color[white](a)
 
@@ -132,7 +132,7 @@ JavaScriptのフレームワークが開発される
 じゃあ、簡単なコマンド入力しただけで、
 これらが実現できるようなツール作ってみるか〜 @color[orange](@fa[hand-holding-heart])
 @color[white](aaa)@fa[sort-down]
-パッケージ管理ツールが誕生！
+@size[1.5em](パッケージ管理ツール)が誕生！
 
 @snapend
 
