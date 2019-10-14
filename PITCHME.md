@@ -80,6 +80,29 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 
 ---
 
+@snap[west]
+
+パッケージ管理ツールを使うことによって
+
+@color[white](a)
+
+
+@snapend
+
+---
+
+@snap[west]
+
+パッケージマネージャーの誕生経緯
+
+@color[white](a)
+
+JavaScript = フロントエンド言語
+時代が進むにつれ、サーバサイドでも処理可能
+
+@snapend
+
+---
 
 @snap[west]
 
