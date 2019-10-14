@@ -101,9 +101,9 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 @color[white](a)
 
 JavaScript = フロントエンド言語
-↓
+  ↓
 時代が進むにつれ、サーバサイドでも処理可能
-↓
+  ↓
 Node.jsが誕生する
 
 @snapend
@@ -113,13 +113,13 @@ Node.jsが誕生する
 @snap[west]
 
 JavaScriptのフレームワークが開発される
-↓
+  ↓
 例えば、そのフレームワークは1000個の
 プログラムで構成されている(とする)
-↓
+  ↓
 特定のファイルの書き換え、適切な場所への移動、
 正常にインストールできたかの確認などを
-全て人間が手作業で処理することはかなり困難@color[blue](@fa[frown])
+全て人間が手作業で処理することはかなり困難 @color[blue](@fa[frown])
 
 @snapend
 
