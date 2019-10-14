@@ -53,19 +53,6 @@ CパッケージとDパッケージは
 
 @snap[west]
 
-パッケージ管理ツールにはたくさんの種類があり、
-プログラム言語や開発環境によって異なる。
-@color[white](a)
-Node.js @color[orange](@fa[handshake]) npm, yarn　  @color[white](ll) Ruby @color[orange](@fa[handshake]) Gem
-PHP @color[orange](@fa[handshake]) Composer 　　　Python @color[orange](@fa[handshake]) pip
-Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[handshake]) Homebrew
-
-@snapend
-
----
-
-@snap[west]
-
 パッケージ管理ツールを使うことによって…
 @color[white](a)
 パッケージのインストールなどの処理が、
@@ -113,6 +100,19 @@ JavaScriptのフレームワークが開発される
 これらが実現できるようなツール作ってみるか〜 @color[orange](@fa[hand-holding-heart])
 @color[white](aaa)@fa[sort-down]
 パッケージ管理ツールが誕生！
+
+@snapend
+
+---
+
+@snap[west]
+
+パッケージ管理ツールにはたくさんの種類があり、
+プログラム言語や開発環境によって異なる。
+@color[white](a)
+Node.js @color[orange](@fa[handshake]) npm, yarn　  @color[white](ll) Ruby @color[orange](@fa[handshake]) Gem
+PHP @color[orange](@fa[handshake]) Composer 　　　Python @color[orange](@fa[handshake]) pip
+Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[handshake]) Homebrew
 
 @snapend
 
