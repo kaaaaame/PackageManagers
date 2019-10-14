@@ -75,7 +75,7 @@ Node.jsが誕生する
 
 @snapend
 
----
++++
 
 @snap[west]
 
@@ -90,7 +90,7 @@ JavaScriptのフレームワークが開発される
 
 @snapend
 
----
++++
 
 @snap[west]
 
@@ -121,13 +121,9 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 @snap[west]
 
 @size[1.5em](npm)とは…
-
 @color[white](a)
-
 @color[orange](Node Package Manager)の略。
-
 JavaScript（Node.js）のパッケージを効率よく
-
 管理する便利なツールのこと。
 
 @snapend
@@ -136,12 +132,9 @@ JavaScript（Node.js）のパッケージを効率よく
 
 @snap[west]
 
-npmを使うためには…
-
+npmを使うためには？
 @color[white](a)
-
 Node.jsをインストールすれば、
-
 npmも自動的にインストールされ使えるようになる
 
 @snapend
@@ -150,17 +143,12 @@ npmも自動的にインストールされ使えるようになる
 
 @snap[west]
 
-どんなパッケージがあるのか
-
+@size[1.5em](yarn)とは…
 @color[white](a)
-
-@color[orange](@fa[splotch]) @size[1.5em](express)
-
-@color[white](a)
-
-Node.jsのWebアプリケーション開発で利用できる
-
-Webフレームワーク。高速でかつ軽量、とても人気
+npmと同じくNode.jsのパッケージを効率よく
+管理する便利なツールのこと。
+Node.jsをインストールすれば、使用できる。
+2016年にFaceBookが公開した。
 
 @snapend
 
@@ -168,17 +156,12 @@ Webフレームワーク。高速でかつ軽量、とても人気
 
 @snap[west]
 
-どんなパッケージがあるのか
-
+@color[orange](@fa[splotch])npmとyarnの違い
 @color[white](a)
+・平行処理でのインストール作業については
+　npmよりもyarnのほうがスピードが速い
+・
 
-@color[orange](@fa[splotch]) @size[1.5em](lodash)
-
-@color[white](a)
-
-便利な関数をまとめて提供しているライブラリ。
-
-配列や数値、オブジェクト、文字列の扱いを簡単にす
 
 @snapend
 
@@ -186,17 +169,7 @@ Webフレームワーク。高速でかつ軽量、とても人気
 
 @snap[west]
 
-どんなパッケージがあるのか
 
-@color[white](a)
-
-@color[orange](@fa[splotch]) @size[1.5em](chalk)
-
-@color[white](a)
-
-ターミナル上の文字列をスタイリングしてくれる
-
-文字や背景の色を変更したり下線を引いたりできる
 
 @snapend
 
