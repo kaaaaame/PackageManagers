@@ -96,7 +96,7 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 
 @snap[west]
 
-パッケージマネージャーの誕生経緯
+<u>パッケージマネージャーの誕生経緯</u>
 
 @color[white](a)
 
