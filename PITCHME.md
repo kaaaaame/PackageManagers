@@ -127,6 +127,17 @@ JavaScriptのフレームワークが開発される
 
 @snap[west]
 
+ましてやバージョン管理なんて絶対無理やん
+@color[white](aaa)@fa[sort-down]
+じゃあ、簡単なコマンド入力しただけで、
+これらが実現できるようなツール作ろっか @color[orange](@fa[hand-holding-heart])
+
+@snapend
+
+---
+
+@snap[west]
+
 @size[1.5em](npm)とは…
 
 @color[white](a)
