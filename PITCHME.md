@@ -96,14 +96,14 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 
 @snap[west]
 
-@color[orange](@fa[star])パッケージマネージャーの誕生経緯
+@color[orange](@fa[splotch])パッケージマネージャーの誕生経緯
 
 @color[white](a)
 
 JavaScript = フロントエンド言語
-  ↓
+@fa[sort-down]
 時代が進むにつれ、サーバサイドでも処理可能
-  ↓
+@fa[sort-down]
 Node.jsが誕生する
 
 @snapend
@@ -113,10 +113,10 @@ Node.jsが誕生する
 @snap[west]
 
 JavaScriptのフレームワークが開発される
-  ↓
+@fa[sort-down]
 例えば、そのフレームワークは1000個の
 プログラムで構成されている(とする)
-  ↓
+@fa[sort-down]
 特定のファイルの書き換え、適切な場所への移動、
 正常にインストールできたかの確認などを
 全て人間が手作業で処理することはかなり困難 @color[blue](@fa[frown])
