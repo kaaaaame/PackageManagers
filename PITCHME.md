@@ -96,7 +96,7 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 
 @snap[west]
 
-<u>パッケージマネージャーの誕生経緯</u>
+@color[orange](@fa[star])パッケージマネージャーの誕生経緯
 
 @color[white](a)
 
@@ -115,11 +115,11 @@ Node.jsが誕生する
 JavaScriptのフレームワークが開発される
 ↓
 例えば、そのフレームワークは1000個の
-プログラムで構成されている
+プログラムで構成されている(とする)
 ↓
 特定のファイルの書き換え、適切な場所への移動、
 正常にインストールできたかの確認などを
-全て人間が手作業で処理することは、かなり困難
+全て人間が手作業で処理することはかなり困難@color[blue](@fa[frown])
 
 @snapend
 
