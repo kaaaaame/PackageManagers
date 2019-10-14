@@ -87,7 +87,7 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 @color[white](a)
 
 パッケージのインストールなどの処理が
-@color[red](高速)に、かつ、@color[red](正確)に行うことができる!
+@color[red](高速)にかつ@color[red](正確)に行うことができる@fa[handshake]
 
 @snapend
 
