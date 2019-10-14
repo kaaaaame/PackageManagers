@@ -98,7 +98,10 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 @color[white](a)
 
 JavaScript = フロントエンド言語
+↓
 時代が進むにつれ、サーバサイドでも処理可能
+↓
+Node.jsが誕生する
 
 @snapend
 
