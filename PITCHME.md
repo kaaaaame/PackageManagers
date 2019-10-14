@@ -5,9 +5,7 @@
 @snap[west]
 
 パッケージ管理ツールとは…
-
 @color[white](a)
-
 パッケージマネージャー、パッケージ管理システム
 とも呼ばれている。
 ソフトウェアのインストールやアンインストール、
@@ -21,11 +19,8 @@
 @snap[west]
 
 Aパッケージをインストールするのに、
-
 Bパッケージが先に入っていることが条件な場合 @color[blue](@fa[frown])
-
 @color[white](a)
-
 @fa[arrow-right] 自動的にインストールをしてくれる @color[orange](@fa[laugh-beam])
 
 @snapend
@@ -35,11 +30,8 @@ Bパッケージが先に入っていることが条件な場合 @color[blue](@f
 @snap[west]
 
 CパッケージとDパッケージは
-
 同時にインストールしてはいけない場合 @color[blue](@fa[frown])
-
 @color[white](a)
-
 @fa[arrow-right] 警告を出してダメということを教えてくれる @color[orange](@fa[laugh-beam])
 
 @snapend
@@ -49,15 +41,10 @@ CパッケージとDパッケージは
 @snap[west]
 
 パッケージとは…
-
 @color[white](a)
-
 ソフトウェアを構成するためのファイルが一式に
-
 まとまったもの。設定ファイルやドキュメント、
-
 プログラム本体、そのプログラムが正しく動くために
-
 必要なライブラリなどが含まれている。
 
 @snapend
@@ -67,11 +54,8 @@ CパッケージとDパッケージは
 @snap[west]
 
 パッケージ管理ツールにはたくさんの種類があり、
-
 プログラム言語や開発環境によって異なる。
-
 @color[white](a)
-
 Node.js @color[orange](@fa[handshake]) npm, yarn　  @color[white](ll) Ruby @color[orange](@fa[handshake]) Gem
 PHP @color[orange](@fa[handshake]) Composer 　　　Python @color[orange](@fa[handshake]) pip
 Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[handshake]) Homebrew
@@ -83,12 +67,10 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 @snap[west]
 
 パッケージ管理ツールを使うことによって…
-
 @color[white](a)
-
 パッケージのインストールなどの処理が、
 手動で処理する場合よりも@color[red](高速)に、かつ、@color[red](正確)に
-行うことができる。
+行うことができる！
 
 @snapend
 
@@ -97,9 +79,7 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 @snap[west]
 
 @color[orange](@fa[splotch])パッケージ管理ツールの誕生経緯
-
 @color[white](a)
-
 JavaScript = フロントエンド言語
 @color[white](aaa)@fa[sort-down]
 時代が進むにつれ、サーバサイドでも処理可能
