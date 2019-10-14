@@ -72,9 +72,9 @@ CパッケージとDパッケージは
 
 @color[white](a)
 
-Node.js @fa[handshake] npm, yarn　  @color[white](ll) Ruby @fa[handshake] Gem
-PHP @fa[handshake] Composer 　　　Python @fa[handshake] pip
-Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
+Node.js @color[orange](@fa[handshake]) npm, yarn　  @color[white](ll) Ruby @color[orange](@fa[handshake]) Gem
+PHP @color[orange](@fa[handshake]) Composer 　　　Python @color[orange](@fa[handshake]) pip
+Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[handshake]) Homebrew
 
 @snapend
 
@@ -87,7 +87,7 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 @color[white](a)
 
 パッケージのインストールなどの処理が
-@color[red](高速)に、かつ、@color[red](正確)に行うことができる @color[orange](@fa[thumbs-up] @fa[star])
+@color[red](高速)に、かつ、@color[red](正確)に行うことができる @color[orange](@fa[thumbs-up])
 
 @snapend
 
