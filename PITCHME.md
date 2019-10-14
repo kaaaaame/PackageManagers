@@ -82,10 +82,12 @@ Linux @fa[handshake] yum, rpm　　　 MacOS @fa[handshake] Homebrew
 
 @snap[west]
 
-パッケージ管理ツールを使うことによって
+パッケージ管理ツールを使うことによって…
 
 @color[white](a)
 
+パッケージのインストールなどの処理が
+@color[red](高速)に、かつ、@color[red](正確)に行うことができる!
 
 @snapend
 
