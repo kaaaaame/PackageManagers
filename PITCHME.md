@@ -152,15 +152,16 @@ Node.jsをインストールすれば、使用できる。
 
 @snapend
 
+
 ---
 
 @snap[west]
 
 @color[orange](@fa[splotch])npmとyarnの違い
 @color[white](a)
-・平行処理でのインストール作業については
-　npmよりもyarnのほうがスピードが速い
-・
+・パッケージのインストール速度
+・安全性
+・バージョン管理　　　　etc…
 
 
 @snapend
