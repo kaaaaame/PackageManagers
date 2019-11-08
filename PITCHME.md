@@ -94,10 +94,10 @@ JavaScriptのフレームワークが開発される
 
 @snap[west]
 
-ましてやバージョン管理なんて絶対無理やん…
+ましてやバージョン管理なんて絶対無理や…
 @color[white](aaa)@fa[sort-down]
 じゃあ、簡単なコマンド入力しただけで、
-これらが実現できるようなツール作ってみるか〜 @color[orange](@fa[hand-holding-heart])
+これらが実現できるようなツール作ってみよう〜 @color[orange](@fa[hand-holding-heart])
 @color[white](aaa)@fa[sort-down]
 パッケージ管理ツールが誕生！
 
