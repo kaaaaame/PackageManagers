@@ -65,7 +65,7 @@ CパッケージとDパッケージは
 
 @snap[west]
 
-@color[orange](@fa[splotch])パッケージ管理ツールの誕生経緯
+@color[orange](@fa[splotch]) パッケージ管理ツールの誕生経緯
 @color[white](a)
 JavaScript = フロントエンド言語
 @color[white](aaa)@fa[sort-down]
@@ -180,12 +180,21 @@ npmとyarnの違い
 
 @snap[west]
 
-パッケージのインストール速度
+@color[orange](@fa[splotch]) パッケージのインストール速度
 @color[white](a)
 yarnは、キャッシュサーバを持っているため、
 2回目以降のインストールが速い。
 さらに、タスクを並行して実行できるため、
 パフォーマンスの向上につながっている。
+
+@snapend
+
+---
+
+@snap[west]
+
+@color[orange](@fa[splotch]) セキュリティ
+@color[white](a)
 
 
 @snapend
