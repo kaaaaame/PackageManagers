@@ -152,6 +152,17 @@ Node.jsをインストールすれば、使用できる。
 
 @snapend
 
+---
+
+@snap[west]
+
+yarnを使うためには？
+@color[white](a)
+・専用のインストーラをダウンロードする
+・ChocolateyやScoopからインストールする
+・npmからインストールする
+
+@snapend
 
 ---
 
@@ -160,10 +171,8 @@ Node.jsをインストールすれば、使用できる。
 @color[orange](@fa[splotch])npmとyarnの違い
 @color[white](a)
 ・パッケージのインストール速度
-・安セキュリティ
-・バージョン管理
-　　　　　　　　　　　　　　　　　　etc…
-
+・セキュリティ
+・バージョン管理　　　　　　　　　　etc…
 
 @snapend
 
