@@ -135,7 +135,7 @@ JavaScript（Node.js）のパッケージを効率よく
 npmを使うためには？
 @color[white](a)
 Node.jsをインストールすれば、
-npmも自動的にインストールされ使えるようになる
+npmも自動的にインストールされ使えるようになる。
 
 @snapend
 
@@ -148,7 +148,7 @@ npmも自動的にインストールされ使えるようになる
 npmと同じくNode.jsのパッケージを効率よく
 管理する便利なツールのこと。
 2016年にFaceBookが公開した。
-npmと互換性があるため、似たような感覚で使える
+npmと互換性があるため似たような感覚で使える。
 
 @snapend
 
@@ -168,11 +168,11 @@ yarnを使うためには？
 
 @snap[west]
 
-@color[orange](@fa[splotch])npmとyarnの違い
+npmとyarnの違い
 @color[white](a)
 ・パッケージのインストール速度
 ・セキュリティ
-・バージョン管理　　　　　　　　　　etc…
+・バージョン管理　　　　　　　　　etc…
 
 @snapend
 
