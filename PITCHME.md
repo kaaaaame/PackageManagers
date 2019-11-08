@@ -160,8 +160,9 @@ Node.jsをインストールすれば、使用できる。
 @color[orange](@fa[splotch])npmとyarnの違い
 @color[white](a)
 ・パッケージのインストール速度
-・安全性
-・バージョン管理　　　　etc…
+・安セキュリティ
+・バージョン管理
+　　　　　　　　　　　　　　　　　　etc…
 
 
 @snapend
