@@ -195,6 +195,15 @@ yarnは、キャッシュサーバを持っているため、
 
 @color[orange](@fa[splotch]) セキュリティ
 @color[white](a)
+
+@snapend
+
+---
+
+@snap[west]
+
+@color[orange](@fa[splotch]) バージョン管理
+@color[white](a)
 yarnはデフォルトで、パッケージのインストール後に
 @color[red](yarn.lock)というパッケージの厳密なバージョン情報
 が記載されたファイルを生成する。
