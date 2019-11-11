@@ -233,7 +233,7 @@ yarn.lockとは…
 
 個人的な感想
 @color[white](a)
-npmと比べるとyarnのほうが魅力があるので、
+npmと比べるとyarnのほうが魅力があったので、
 これからはyarnを使っていこうと思ったよ @color[orange](@fa[hand-holding-heart])
 
 @snapend
