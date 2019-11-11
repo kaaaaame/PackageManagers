@@ -147,7 +147,7 @@ Node.jsをインストールすれば、npmも一緒に
 @color[white](a)
 npmと同じくNode.jsのパッケージを効率よく
 管理する便利なツールのこと。
-2016年にFaceBookが公開した。
+FaceBookがGoogle等と協力して2016年に公開。
 npmと互換性があるため似たような感覚で使える。
 
 @snapend
@@ -170,9 +170,10 @@ yarnを使うためには？
 
 npmとyarnの違い
 @color[white](a)
-・パッケージのインストール速度
-・セキュリティ
-・バージョン管理　　　　　　　　　etc…
+・とにかく速い！
+・安心安全！
+・高い信頼性！
+　　　　　　　　　etc…
 
 @snapend
 
