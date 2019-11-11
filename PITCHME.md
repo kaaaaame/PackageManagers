@@ -159,7 +159,7 @@ npmと互換性があるため似たような感覚で使える。
 yarnを使うためには？
 @color[white](a)
 ・専用のインストーラをダウンロードする
-・HomebrewやScoopからインストールする
+・ScoopやHomebrewからインストールする
 ・npmからインストールする（あまりよくない）
 
 @snapend
@@ -195,7 +195,9 @@ yarnは、キャッシュサーバを持っているため、
 
 @color[orange](@fa[splotch]) セキュリティ
 @color[white](a)
-
+yarnは、パッケージのインストール時に@color[red](yarn.lock)という
+パッケージの厳密なバージョン情報が記載された
+ファイルを生成する。(デフォルトでは)
 
 @snapend
 
