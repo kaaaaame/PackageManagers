@@ -170,7 +170,7 @@ yarnを使うためには？
 
 npmとyarnの違い
 @color[white](a)
-とにかく@size[1.5em](速い！) 安心で@size[1.5em](安全！) 高い@size[1.5em](信頼性！)
+とにかく@size[1.5em](速い)！ 安心で@size[1.5em](安全)！ 高い@size[1.5em](信頼性)！
 
 @snapend
 
@@ -178,7 +178,7 @@ npmとyarnの違い
 
 @snap[west]
 
-@color[orange](@fa[splotch]) パッケージのインストール速度
+@color[orange](@fa[splotch]) とにかく速い！
 @color[white](a)
 yarnは、キャッシュサーバを持っているため、
 同一パッケージの2回目以降のインストールが速い。
@@ -191,8 +191,11 @@ yarnは、キャッシュサーバを持っているため、
 
 @snap[west]
 
-@color[orange](@fa[splotch]) セキュリティ
+@color[orange](@fa[splotch]) 安心で安全！
 @color[white](a)
+yarnは、コードが実行される前に
+チェックサム（誤り検出符号）を使用し、
+各パッケージが改ざんされていないかを確認する。
 
 @snapend
 
@@ -200,7 +203,7 @@ yarnは、キャッシュサーバを持っているため、
 
 @snap[west]
 
-@color[orange](@fa[splotch]) バージョン管理
+@color[orange](@fa[splotch]) 高い信頼性！
 @color[white](a)
 yarnはデフォルトで、パッケージのインストール後に
 @color[red](yarn.lock)というパッケージの厳密なバージョン情報
