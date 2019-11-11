@@ -170,7 +170,7 @@ yarnを使うためには？
 
 npmとyarnの違い
 @color[white](a)
-とにかく@size[1.5em](速い！) 安心で@size[1.5em](安全！) 高い@size[1.5em](信頼性！)
+とにかく@size[1.5em](速い)! 安心で@size[1.5em](安全)! 高い@size[1.5em](信頼性)!
 
 @snapend
 
