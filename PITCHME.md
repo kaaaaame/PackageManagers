@@ -122,7 +122,7 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 
 @size[1.5em](npm)とは…
 @color[white](a)
-@color[orange](Node Package Manager)の略。
+@color[red](Node Package Manager)の略。
 JavaScript（Node.js）のパッケージを効率よく
 管理する便利なツールのこと。
 
