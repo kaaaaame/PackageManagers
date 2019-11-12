@@ -216,7 +216,7 @@ yarnはデフォルトで、パッケージのインストール後に
 
 +++
 
-@snap[west
+@snap[west]
 
 yarn.lockとは…
 @color[white](a)
