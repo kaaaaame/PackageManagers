@@ -147,6 +147,19 @@ Node.jsをインストールすれば、npmも一緒に
 
 @snap[west]
 
+グローバルインストールって？
+@color[white](a)
+実行ファイルが、パスの指定なしで実行できる。
+下記でhogeパッケージをインストールした場合、
+コンソール画面では、hogeコマンドが直接操作できる。
+`npm install -g hoge`
+
+@snapend
+
+---
+
+@snap[west]
+
 @size[1.5em](yarn)とは…
 @color[white](a)
 npmと同じくNode.jsのパッケージを効率よく
