@@ -127,8 +127,8 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 JavaScript（Node.js）のパッケージを効率よく
 管理する便利なツールのこと。
 npmプロジェクトの情報を管理しているのが、
-@color[red](package.json)というファイルで、これを
-手動で編集したりnpmコマンドを通して更新していく。
+@color[red](package.json)というファイルで、これを手動で
+編集したりnpmコマンドを通して更新していく。
 
 @snapend
 
