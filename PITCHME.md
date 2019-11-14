@@ -231,6 +231,17 @@ yarn.lockとは…
 
 @snap[west]
 
+モジュールが追加されるたび、yarn.lockファイル
+を生成（または更新）する。package.jsonで定義された
+許可済みのバージョン範囲を維持している間、
+同一バージョンを別のマシンにインストールできる。
+
+@snapend
+
+---
+
+@snap[west]
+
 個人的な感想
 @color[white](a)
 npmと比べるとyarnのほうが魅力があったので、
