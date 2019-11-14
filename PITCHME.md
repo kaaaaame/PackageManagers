@@ -151,8 +151,8 @@ Node.jsをインストールすれば、npmも一緒に
 @color[white](a)
 実行ファイルが、パスの指定なしで実行できる。
 下記でhogeパッケージをインストールした場合、
-コンソール画面でhogeコマンドが直接操作できる。
-@fa[sort-right] `npm install -g hoge`
+コンソール画面でhogeコマンドが直接操作できる
+@color[](@fa[pen]) `npm install -g hoge`
 
 @snapend
 
