@@ -9,7 +9,7 @@
 パッケージマネージャー、パッケージ管理システム
 とも呼ばれている。
 ソフトウェアのインストールやアンインストール、
-アップデートなどが簡単にできるツールのこと。
+アップデートなどが簡単にできるソフトのこと。
 @color[red](ソフトウェア同士の依存関係)も管理できる。
 
 @snapend
@@ -126,6 +126,9 @@ Linux @color[orange](@fa[handshake]) yum, rpm　　　 MacOS @color[orange](@fa[
 @color[red](Node Package Manager)の略。
 JavaScript（Node.js）のパッケージを効率よく
 管理する便利なツールのこと。
+npmプロジェクトの情報を管理しているのが、
+@color[red](package.json)というファイルで、これを
+手動で編集したりnpmコマンドを通して更新していく。
 
 @snapend
 
