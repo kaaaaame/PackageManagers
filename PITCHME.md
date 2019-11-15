@@ -110,6 +110,7 @@ npmがある場所にパッケージをインストールする。
 コマンドのパスが通るので指定なしで実行可能。
 下記でhogeパッケージをインストールした場合、
 コンソール画面でhogeコマンドとして操作できる。
+@color[white](a)
 @color[orange](@fa[pen])  `npm install -g hoge`
 
 @snapend
@@ -131,12 +132,20 @@ npmがある場所にパッケージをインストールする。
 
 ローカルインストールって？
 @color[white](a)
-パッケージは、カレントディレクトリの
-node_modules内にインストールされる。
+package.jsonと同じ階層に@color[red](node_modules)という
+ディレクトリが作成され、ここにインストールされる。
 下記のように「--save」をつけると、
 package.jsonにバージョン情報が追記される。
 @color[white](a)
 @color[orange](@fa[pen])  `npm install --save hoge`
+
+@snapend
+
+---
+
+@snap[west]
+
+
 
 @snapend
 
