@@ -211,7 +211,7 @@ npm scriptsに記述するコマンドは、
 npm scriptを@color[red](使用せずに)、ローカルで
 インストールしたコマンドを実行できる。
 npmの5.2.0から同梱されるようになったコマンド。
-"node_modules/.bin"内のパッケージが直接実行可能。
+"node_modules/.bin"のパッケージが直接実行可能。
 
 @snapend
 
