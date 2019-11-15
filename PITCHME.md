@@ -217,7 +217,7 @@ npmのVer.5.2.0から同梱されるようになった
 
 ・通常の場合
 @color[orange](@fa[pen]) node ./node_modules/.bin/webpack
-
+@color[white](a)
 ・npxを使う場合
 @color[orange](@fa[pen]) npx webpack
 
