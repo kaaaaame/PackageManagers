@@ -189,9 +189,12 @@ npm scriptsに記述するコマンドは、
 ---
 
 @snap[west]
-@color[orange](@fa[pen])
-`"scripts": {"start": "gulp"}`
-
+例えば、scriptフィールドに下記のように記述する。
+@color[orange](@fa[pen]) `"scripts": {"start": "gulp"}`
+@color[white](a)
+下記のコマンドで実行する。
+@color[orange](@fa[pen]) `npm run 〇〇〇←タスク名`
+（上記の例の場合は、タスク名はstart）
 
 @snapend
 
