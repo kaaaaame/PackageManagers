@@ -66,48 +66,6 @@ CパッケージとDパッケージは
 
 @snap[west]
 
-@color[orange](@fa[splotch]) パッケージ管理ツールの誕生経緯
-@color[white](a)
-JavaScript = フロントエンド言語
-@color[white](aaa)@fa[sort-down]
-時代が進むにつれ、サーバサイドでも処理可能
-@color[white](aaa)@fa[sort-down]
-Node.jsが誕生する
-
-@snapend
-
-+++
-
-@snap[west]
-
-JavaScriptのフレームワークが開発される
-@color[white](aaa)@fa[sort-down]
-例えば、そのフレームワークは1000個の
-プログラムで構成されている(とする)
-@color[white](aaa)@fa[sort-down]
-特定のファイルの書き換え、適切な場所への移動、
-正常にインストールできたかの確認などを
-全て人間が手作業で処理することはかなり困難 @color[blue](@fa[frown])
-
-@snapend
-
-+++
-
-@snap[west]
-
-ましてやバージョン管理なんて絶対無理や…
-@color[white](aaa)@fa[sort-down]
-じゃあ、簡単なコマンド入力しただけで、
-これらが実現できるようなツール作ってみよう〜 @color[orange](@fa[hand-holding-heart])
-@color[white](aaa)@fa[sort-down]
-パッケージ管理ツールが誕生！
-
-@snapend
-
----
-
-@snap[west]
-
 パッケージ管理ツールにはたくさんの種類があり、
 プログラム言語や開発環境によって異なる。
 @color[white](a)
@@ -151,8 +109,8 @@ Node.jsをインストールすれば、npmも一緒に
 @color[white](a)
 実行ファイルが、パスの指定なしで実行できる。
 下記でhogeパッケージをインストールした場合、
-コンソール画面でhogeコマンドが直接操作できる
-@color[](@fa[pen]) `npm install -g hoge`
+コンソール画面でhogeコマンドが直接操作できる。
+@color[](@fa[pen])  `npm install -g hoge`
 
 @snapend
 
