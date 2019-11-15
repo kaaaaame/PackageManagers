@@ -104,6 +104,17 @@ Node.jsをインストールすれば、npmも一緒に
 
 @snap[west]
 
+パッケージのインストール方法
+@color[white](a)
+・グローバルインストール
+・ローカルインストール
+
+@snapend
+
+---
+
+@snap[west]
+
 グローバルインストールって？
 @color[white](a)
 npmがある場所にパッケージをインストールする。
@@ -178,8 +189,10 @@ npm scriptsに記述するコマンドは、
 ---
 
 @snap[west]
-
-
+@color[orange](@fa[pen])
+`"scripts": {
+  "start": "gulp"
+}`
 
 
 @snapend
