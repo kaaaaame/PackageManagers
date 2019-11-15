@@ -150,8 +150,28 @@ package.jsonにバージョン情報が追記される。
 package.jsonを作成した時と同じ環境が作れる。
 複数人で開発環境を揃えることなどに役立つ。
 でも、パス付きじゃないとコマンドが実行できない。
+
+@snapend
+
+---
+
+@snap[west]
+
+@size[1.5em](npm scripts)とは…
 @color[white](a)
+あらかじめコマンドをpackage.jsonに定義しておき
+簡単に呼び出せるようにした仕組みのこと。
 
+@snapend
+
+---
+
+@snap[west]
+
+ローカルインストールしたパッケージでも、
+npm scriptsに記述するコマンドは、
+グローバルインストールと同じコマンドで
+パッケージを実行することができる！
 
 @snapend
 
@@ -160,18 +180,6 @@ package.jsonを作成した時と同じ環境が作れる。
 @snap[west]
 
 
-@snapend
-
----
-
-@snap[west]
-
-
-@snapend
-
----
-
-@snap[west]
 
 
 @snapend
