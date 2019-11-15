@@ -131,8 +131,8 @@ npmがある場所にパッケージをインストールする。
 @snap[west]
 
 全てのプロジェクトから利用することができるため
-よく使うモジュールやし毎回インストールするのは
-面倒だ、という場合に便利な方法。
+よく使うモジュールやしコマンドを使いたい
+という場合に便利な方法。
 ただし、package.jsonには情報が@color[red](追記されない)。
 
 @snapend
@@ -168,6 +168,7 @@ package.jsonを作成した時と同じ環境が作れる。
 
 @snap[west]
 
+だめ
 @size[1.5em](npm scripts)とは…
 @color[white](a)
 あらかじめコマンドをpackage.jsonに定義しておき
@@ -175,10 +176,11 @@ package.jsonを作成した時と同じ環境が作れる。
 
 @snapend
 
----
++++
 
 @snap[west]
 
+だめ
 ローカルインストールしたパッケージでも、
 npm scriptsに記述するコマンドは、
 グローバルインストールと同じコマンドで
@@ -189,6 +191,8 @@ npm scriptsに記述するコマンドは、
 ---
 
 @snap[west]
+
+だめ
 例えば、scriptフィールドに下記のように記述する。
 @color[orange](@fa[pen]) @size[0.8em](`"scripts":{"hello":"echo \"Hello World!\""}`)
 @color[white](a)
@@ -207,7 +211,7 @@ npm scriptsに記述するコマンドは、
 npm scriptを@color[red](使用せずに)、ローカルで
 インストールしたコマンドを実行できる。
 npmの5.2.0から同梱されるようになったコマンド。
-"node_modules/.bin"内のアプリを直接実行できる。
+"node_modules/.bin"内のパッケージが直接実行可能。
 
 @snapend
 
@@ -219,7 +223,7 @@ npmの5.2.0から同梱されるようになったコマンド。
 @color[orange](@fa[pen]) node ./node_modules/.bin/webpack
 @color[white](a)
 ・npxを使う場合（例）
-@color[orange](@fa[pen]) npx webpack@color[white](aaaaああああああ)→ めっちゃシンプル！
+@color[orange](@fa[pen]) npx webpack@color[white](aaaaあああああ)→ めっちゃシンプル！
 
 @snapend
 
