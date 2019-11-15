@@ -135,8 +135,9 @@ npmのある場所にパッケージをインストールする。
 パッケージは、カレントディレクトリの
 node_modules内にインストールされる。
 下記のように「--save」をつけると、
-package.jsonに情報が追記される。
-
+package.jsonにバージョン情報が追記される。
+@color[white](a)
+@color[orange](@fa[pen])  `npm install --save hoge`
 
 @snapend
 
