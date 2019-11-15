@@ -190,7 +190,7 @@ npm scriptsに記述するコマンドは、
 
 @snap[west]
 例えば、scriptフィールドに下記のように記述する。
-@color[orange](@fa[pen]) @size[1em]`"scripts":{"hello":"echo \"Hello World!\""}`
+@color[orange](@fa[pen]) @size[0.5em]`"scripts":{"hello":"echo \"Hello World!\""}`
 @color[white](a)
 下記のコマンドで実行する。
 @color[orange](@fa[pen]) `npm run 〇〇〇←タスク名`
