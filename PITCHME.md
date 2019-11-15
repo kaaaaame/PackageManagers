@@ -219,7 +219,7 @@ npmの5.2.0から同梱されるようになったコマンド。
 @color[orange](@fa[pen]) node ./node_modules/.bin/webpack
 @color[white](a)
 ・npxを使う場合（例）
-@color[orange](@fa[pen]) npx webpack@color[white](aaaaあああああ)めっちゃシンプル！
+@color[orange](@fa[pen]) npx webpack@color[white](aaaaああああああ)→ めっちゃシンプル！
 
 @snapend
 
@@ -228,7 +228,7 @@ npmの5.2.0から同梱されるようになったコマンド。
 @snap[west]
 
 グローバル環境がきたなくなったり、
-手動でpackage.jsonに書き込んだり、
+手動でpackage.jsonのscriptに書き込んだり、
 面倒なことをしなくてもよくなる @color[orange](@fa[hand-holding-heart])
 
 @snapend
