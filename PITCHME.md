@@ -206,8 +206,8 @@ npm scriptsに記述するコマンドは、
 @color[white](a)
 npm scriptを@color[red](使用せずに)、
 ローカルインストールしたコマンドを実行できる。
-npmのVer.5.2.0から同梱されるようになった
-新しいコマンド。
+npmのVer.5.2.0から同梱されるようになったコマンド。
+プロジェクト内の"node_modules/.bin"内のアプリを直接実行する
 
 @snapend
 
@@ -219,7 +219,7 @@ npmのVer.5.2.0から同梱されるようになった
 @color[orange](@fa[pen]) node ./node_modules/.bin/webpack
 @color[white](a)
 ・npxを使う場合
-@color[orange](@fa[pen]) npx webpack@color[white](aaaaあああ)シンプル @color[red](@fa[hand-holding-heart])
+@color[orange](@fa[pen]) npx webpack@color[white](aaaaあああ)めっちゃシンプル @color[red](@fa[hand-holding-heart])
 
 @snapend
 
