@@ -106,11 +106,11 @@ Node.jsをインストールすれば、npmも一緒に
 
 グローバルインストールって？
 @color[white](a)
-npmのある場所にパッケージをインストールする。
+npmのルート配下にあるnode_modulesに
+パッケージをインストールする。
 コマンドのパスが通るので指定なしで実行可能。
 下記でhogeパッケージをインストールした場合、
 コンソール画面でhogeコマンドとして操作できる。
-@color[white](a)
 @color[orange](@fa[pen])  `npm install -g hoge`
 
 @snapend
