@@ -219,7 +219,7 @@ npmのVer.5.2.0から同梱されるようになった
 @color[orange](@fa[pen]) node ./node_modules/.bin/webpack
 @color[white](a)
 ・npxを使う場合
-@color[orange](@fa[pen]) npx webpack@color[white](aaaa)シンプル@color[](@fa[hand-holding-heart])
+@color[orange](@fa[pen]) npx webpack@color[white](aaaaあああ)シンプル @color[red](@fa[hand-holding-heart])
 
 @snapend
 
