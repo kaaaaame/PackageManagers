@@ -363,3 +363,11 @@ npmより、yarnのほうが魅力があったので、
 @snapend
 
 ---
+
+@snap[west]
+
+おわります。
+
+@snapend
+
+---
