@@ -133,7 +133,7 @@ npmがある場所にパッケージをインストールする。
 ローカルインストールって？
 @color[white](a)
 package.jsonと同じ階層に@color[red](node_modules)という
-ディレクトリが作成され、ここにインストールされる。
+ディレクトリが作成され、インストールされる。
 下記のように「--save」をつけると、
 package.jsonにバージョン情報が追記される。
 @color[white](a)
@@ -145,6 +145,10 @@ package.jsonにバージョン情報が追記される。
 
 @snap[west]
 
+あるディレクトリにpackage.jsonを配置し、
+下記コマンドを実行すると、インストールしながら
+package.jsonを作成した時と同じ環境が作れる。
+複数人で開発環境を揃えることなどに役立つ。
 
 
 @snapend
