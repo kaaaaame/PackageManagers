@@ -146,16 +146,46 @@ package.jsonにバージョン情報が追記される。
 @snap[west]
 
 あるディレクトリにpackage.jsonを配置し、
-下記コマンドを実行すると、インストールしながら
-package.jsonを作成した時と同じ環境が作れる。
-複数人で開発環境を揃えることなどに役立つ。
+@color[orange](@fa[pen])  `npm install`を実行すると、
+インストールしながら、package.jsonを作成
+した時と同じ環境が作れる。複数人で開発環境を揃えることなどに役立つ
+でも、パス付きじゃないとコマンドが実行できない。
 @color[white](a)
-@color[orange](@fa[pen])  `npm install`
 
 
 @snapend
 
 ---
+
+@snap[west]
+
+
+@snapend
+
+---
+
+@snap[west]
+
+
+@snapend
+
+---
+
+@snap[west]
+
+
+@snapend
+
+---
+
+@snap[west]
+
+
+@snapend
+
+---
+
+
 
 @snap[west]
 
