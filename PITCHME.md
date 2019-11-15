@@ -204,10 +204,10 @@ npm scriptsに記述するコマンドは、
 
 @size[1.5em](npx)とは…
 @color[white](a)
-npm scriptを@color[red](使用せずに)、
-ローカルインストールしたコマンドを実行できる。
-npmのVer.5.2.0から同梱されるようになったコマンド。
-プロジェクト内の"node_modules/.bin"内のアプリを直接実行する
+npm scriptを@color[red](使用せずに)、ローカルで
+インストールしたコマンドを実行できる。
+npmの5.2.0から同梱されるようになったコマンド。
+"node_modules/.bin"内のアプリを直接実行できる。
 
 @snapend
 
@@ -215,10 +215,10 @@ npmのVer.5.2.0から同梱されるようになったコマンド。
 
 @snap[west]
 
-・通常の場合
+・通常の場合（例）
 @color[orange](@fa[pen]) node ./node_modules/.bin/webpack
 @color[white](a)
-・npxを使う場合
+・npxを使う場合（例）
 @color[orange](@fa[pen]) npx webpack@color[white](aaaaあああ)めっちゃシンプル @color[red](@fa[hand-holding-heart])
 
 @snapend
