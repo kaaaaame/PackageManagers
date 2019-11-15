@@ -190,9 +190,7 @@ npm scriptsに記述するコマンドは、
 
 @snap[west]
 @color[orange](@fa[pen])
-`"scripts": {
-  "start": "gulp"
-}`
+`"scripts": {"start": "gulp"}`
 
 
 @snapend
