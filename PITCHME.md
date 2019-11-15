@@ -345,7 +345,7 @@ yarnでパッケージのインストールすると、
 　同じpackage.jsonを使用できること。
 ・複数ある同じパッケージを、1つのインデックスに
 　まとめることでインストールする数を減らし、
-@color[white](a)ディスク容量の軽減ができること。
+@color[white](aa)ディスク容量の軽減ができること。
   
 @snapend
 
@@ -358,7 +358,7 @@ yarnでパッケージのインストールすると、
 インストールの速度は環境にもよると思うが、
 安全性などの面をみると…
 npmより、yarnのほうが魅力があったので、
-これからはyarnを使っていこうと思ったよ @color[orange](@fa[hand-holding-heart])
+これからはyarnを使っていこうと思ったヨ @color[orange](@fa[hand-holding-heart])
 
 @snapend
 
